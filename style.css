@@ -1,0 +1,98 @@
+
+body{
+    margin: 10em;
+    padding: 0;
+
+}
+    h1,h2{
+    display: inline-block;
+    font-family: 'Manrope', sans-serif;
+   
+}
+
+h4{
+    display: inline-block;
+    font-family: 'Manrope', sans-serif;
+    font-size: 13px;
+    color:#1a73e8;
+}
+input{
+    height: 30px;
+    margin: 1px;
+    display: inline-block;
+    border :1px  gray solid;
+    border-radius: 4px;
+    padding-left: 5px;
+
+}
+input :hover{
+    border-color: red;
+}
+input:focus{
+   outline: none;
+}
+#imgdiv{
+    padding-top: 10em;
+    padding-left: 40px;
+ 
+}
+.fa{
+    position: absolute;
+    left: 39em;
+    padding-top: 7px;
+}
+section{
+    padding: 40px;
+    display: inline-flex;
+    margin: 20px;
+    border: 1px #ccc solid;
+    border-radius: 10px;
+    
+
+}
+p{
+    color: black;
+    font-size: 13px;
+
+}
+.button{
+    margin-left: 15em;
+    background-color: #1a73e8;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    width: 90px;
+    height: 40px;
+}
+h5{
+    color: rgb(0, 102, 255);
+    font-family: serif;
+}
+
+.option{
+    display: inline-block;
+    margin-top: 0;
+    margin-left: 1.5em;
+    border: none;
+    padding:none;
+}
+.end{
+    display: flex;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.a1{
+    
+    margin-left: 17em;
+    color: gray;
+    }
+.a2{
+    color: gray;
+    margin-left: 2em;
+}
+
+
+.a3{
+    color: gray;
+    margin-left: 2em;
+}
